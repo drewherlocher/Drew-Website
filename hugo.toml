@@ -1,0 +1,49 @@
+baseURL = "http://localhost:1313/"
+title = "Drew Herlocher"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Drew Herlocher"
+description = "Game Programmer"
+info = ["Game Programmer"]
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/drewherlocher/"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 2
+url = "mailto:drewmychiskyt@gmail.com"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+
+[[menu.main]]
+name = "Resume"
+weight = 3
+url = "resume/"
+
+[[menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"

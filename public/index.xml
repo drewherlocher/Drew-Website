@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drew Herlocher</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Drew Herlocher</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;## Hi, I&amp;rsquo;m Drew Herlocher&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Game Programming student at Champlain College, graduating in May 2026. I&amp;rsquo;m passionate about creating interactive experiences and have a strong foundation in multiple programming languages and tools.&lt;/p&gt;&#xA;&lt;p&gt;### Technical Skills&lt;/p&gt;&#xA;&lt;p&gt;- **Languages:** Python, C++, C#, JavaScript, CSS, HTML&lt;/p&gt;&#xA;&lt;p&gt;- **Tools:** Microsoft Windows, Photoshop, Salesforce, Square&lt;/p&gt;&#xA;&lt;p&gt;- **Soft Skills:** Teamwork, Customer Service, Communication&lt;/p&gt;&#xA;&lt;p&gt;### Education&lt;/p&gt;&#xA;&lt;p&gt;**Champlain College** — Bachelor&amp;rsquo;s Degree in Game Programming&lt;/p&gt;&#xA;&lt;p&gt;*January 2023 - May 2026, Burlington, VT*&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;drew-herlocher&#34;&gt;&#xD;&#xA;  Drew Herlocher&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#drew-herlocher&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Game Programming Student&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;194 St. Paul Street, Burlington, VT 05401&lt;br&gt;&#xA;646-715-8544 | &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34; &gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/DrewHerlocherResume2024-1.pdf&#34; &gt;Download PDF Resume&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;&#xD;&#xA;  Skills&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Service:&lt;/strong&gt; Teamwork, Customer Service, Cash Handling, Square&lt;br&gt;&#xA;&lt;strong&gt;Technical:&lt;/strong&gt; Microsoft Windows, Python, C++, C#, JavaScript, CSS, HTML, Photoshop, Salesforce&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;&#xD;&#xA;  Experience&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Target / Cashier&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;October 2024 - December 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
