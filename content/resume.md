@@ -8,7 +8,7 @@ draft: false
 **Game Programming Student**
 
 194 St. Paul Street, Burlington, VT 05401  
-646-715-8544 | 📧 drew.herlocher@mymail.champlain.edu
+646-715-8544 | drew.herlocher@mymail.champlain.edu
 
 [Download PDF Resume](/DrewHerlocherResume2024-1.pdf)
 

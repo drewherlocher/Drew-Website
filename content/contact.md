@@ -18,7 +18,7 @@ I'm always open to connecting — whether it's about a project, an opportunity, 
 
 You can also find me on:
 
-- **GitHub:** [github.com/drewherlocher](#) ← replace with your link
-- **LinkedIn:** [linkedin.com/in/drewherlocher](#) ← replace with your link
+- **GitHub:** [github.com/drewherlocher](#)
+- **LinkedIn:** [linkedin.com/in/drewherlocher](#)
 
 I'm currently a Game Programming student at Champlain College, graduating May 2026, and open to internship and entry-level opportunities in game development.
