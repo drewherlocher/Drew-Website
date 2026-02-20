@@ -1,66 +1,41 @@
 ---
-
 title: "About"
-
 date: 2026-01-28
-
 draft: false
-
 ---
 
+<img src="/Drew-Website/drew_portfolio.jpg" alt="Drew Herlocher" style="max-width: 300px; border-radius: 8px;" />
 
+## Hi, I'm Drew Herlocher
 
-\## Hi, I'm Drew Herlocher
+I'm a Game Programming student at Champlain College in Burlington, VT, graduating in May 2026. I've always been drawn to the way games blend technology and creativity the idea that you can write code that makes someone feel something is what got me into this field, and it's what keeps me going.
 
+Originally from the Upper West Side in New York City, I've had the opportunity to study abroad through Champlain three times! Twice in Montreal and once in Dublin, Ireland. Those experiences pushed me outside my comfort zone and gave me a much broader perspective on design, culture, and collaboration.
 
+I'm passionate about building interactive experiences and am always looking to sharpen my skills, whether that's diving deeper into C++ and game engine work or exploring new tools and frameworks.
 
-I'm a Game Programming student at Champlain College, graduating in May 2026. I'm passionate about creating interactive experiences and have a strong foundation in multiple programming languages and tools.
+### Technical Skills
 
+- **Languages:** Python, C++, C#, JavaScript, CSS, HTML
+- **Tools:** Photoshop, Salesforce, Square, Microsoft Windows
+- **Soft Skills:** Teamwork, Communication, Customer Service
 
+### Education
 
-\### Technical Skills
+**Champlain College** — Bachelor's Degree in Game Programming  
+*January 2023 – May 2026, Burlington, VT*
 
+- Champlain Abroad – Montreal Study Program *(Jan 2025 – May 2025)*
+- Champlain Abroad – Dublin Study Program *(May 2024 – June 2024)*
+- Champlain Abroad – Montreal Study Program *(May 2023 – June 2023)*
 
+**Borough of Manhattan Community College**  
+*January 2022 – December 2022, New York, NY*
 
-\- \*\*Languages:\*\* Python, C++, C#, JavaScript, CSS, HTML
+- Phi Theta Kappa Honor Society
 
-\- \*\*Tools:\*\* Microsoft Windows, Photoshop, Salesforce, Square
+### Experience
 
-\- \*\*Soft Skills:\*\* Teamwork, Customer Service, Communication
+I bring a mix of technical knowledge and real-world, people-facing experience. As a Student Ambassador at Champlain College I led campus tours for prospective students, tracked outreach in Salesforce, and learned how to represent something I genuinely care about. Before that I worked as a barista, a print manager, and most recently as a cashier at Target, roles that built my communication, problem-solving, and composure under pressure.
 
-
-
-\### Education
-
-
-
-\*\*Champlain College\*\* — Bachelor's Degree in Game Programming  
-
-\*January 2023 - May 2026, Burlington, VT\*
-
-
-
-\- Champlain Abroad - Montreal Study Program (Jan 2025 - May 2025)
-
-\- Champlain Abroad - Dublin Study Program (May 2024 - June 2024)
-
-\- Champlain Abroad - Montreal Study Program (May 2023 - June 2023)
-
-
-
-\*\*Borough of Manhattan Community College\*\*  
-
-\*January 2022 - December 2022, New York, NY\*
-
-
-
-\- Phi Theta Kappa Honor Society
-
-
-
-\### Experience
-
-
-
-I bring a mix of technical knowledge and customer facing experience. I've worked as a Student Ambassador at Champlain College leading campus tours, and held roles in retail and food service where I developed strong communication and problem-solving skills.
-
+[View my full resume →](/resume)
